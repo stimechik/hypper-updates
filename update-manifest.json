@@ -1,4 +1,16 @@
 {
   "schema": 1,
-  "releases": []
+  "releases": [
+    {
+      "channel": "public",
+      "platform": "windows",
+      "version": "1.2",
+      "latestBuild": 1791029158,
+      "minimumBuild": 1791029158,
+      "enabled": true,
+      "url": "https://github.com/stimechik/hypper-updates/releases/download/untagged-cc4fd10f469b47e5b8b6/Hypper-windows-1791029158.zip",
+      "sha256": "9fac652c53f5402c72e808ad661bc3170c5f0cdd2101c1604cabe51bb6857df9",
+      "bytes": 220933456
+    }
+  ]
 }
