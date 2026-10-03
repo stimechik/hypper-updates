@@ -1,27 +1,27 @@
 {
-  "schema": 1,
-  "releases": [
-    {
-      "channel": "public",
-      "platform": "windows",
-      "version": "1.2",
-      "latestBuild": 1791029158,
-      "minimumBuild": 1791029158,
-      "enabled": true,
-      "url": "https://github.com/stimechik/hypper-updates/releases/download/public-windows-1791029158/Hypper-windows-1791029158.zip",
-      "sha256": "9fac652c53f5402c72e808ad661bc3170c5f0cdd2101c1604cabe51bb6857df9",
-      "bytes": 220933456
-    },
-    {
-      "channel": "public",
-      "platform": "android",
-      "version": "1.2",
-      "latestBuild": 1791031508,
-      "minimumBuild": 1791031508,
-      "enabled": true,
-      "url": "https://github.com/stimechik/hypper-updates/releases/download/public-android-1791031508/Hypper-android-1791031508.apk",
-      "sha256": "012fe1dea090bd6f879e2d7f08bc93ecaaae3331370bc6cf66f870398ea4b5b0",
-      "bytes": 191015674
-    }
-  ]
+    "schema":  1,
+    "releases":  [
+                     {
+                         "channel":  "public",
+                         "platform":  "android",
+                         "version":  "1.2",
+                         "latestBuild":  1791031508,
+                         "minimumBuild":  1791031508,
+                         "enabled":  true,
+                         "url":  "https://github.com/stimechik/hypper-updates/releases/download/public-android-1791031508/Hypper-android-1791031508.apk",
+                         "sha256":  "012fe1dea090bd6f879e2d7f08bc93ecaaae3331370bc6cf66f870398ea4b5b0",
+                         "bytes":  191015674
+                     },
+                     {
+                         "channel":  "public",
+                         "platform":  "windows",
+                         "version":  "1.2.6",
+                         "latestBuild":  1791046156,
+                         "minimumBuild":  1791046156,
+                         "enabled":  true,
+                         "url":  "https://github.com/stimechik/hypper-updates/releases/download/untagged-0b74d9c6cabce98c10f3/Hypper-windows-1791046156.zip",
+                         "sha256":  "c9a20882a38141621274e8f6a1e827c00e2ca34225a88332ac46cbee637da919",
+                         "bytes":  223436671
+                     }
+                 ]
 }
