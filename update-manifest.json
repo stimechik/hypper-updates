@@ -4,24 +4,24 @@
                      {
                          "channel":  "public",
                          "platform":  "windows",
-                         "version":  "1.3.2",
-                         "latestBuild":  1791937748,
-                         "minimumBuild":  1791937748,
+                         "version":  "1.4.0",
+                         "latestBuild":  1792415348,
+                         "minimumBuild":  1792415348,
                          "enabled":  true,
-                         "url":  "https://github.com/stimechik/hypper-updates/releases/download/public-windows-1791937748/Hypper-windows-1791937748.zip",
-                         "sha256":  "e0735d6d63218dc45909e2f63ace647791f8266c6ad1b625c79773f5f654858f",
-                         "bytes":  320238501
+                         "url":  "https://github.com/stimechik/hypper-updates/releases/download/public-windows-1792415348/Hypper-windows-1792415348.zip",
+                         "sha256":  "0bf133b1c90340bb5bdde213aeb157da045dbb044ea70123f7f2f62afc1e6c6c",
+                         "bytes":  359907071
                      },
                      {
                          "channel":  "public",
                          "platform":  "android",
-                         "version":  "1.3.2",
-                         "latestBuild":  1791968759,
-                         "minimumBuild":  1791968759,
+                         "version":  "1.4.0",
+                         "latestBuild":  1792348646,
+                         "minimumBuild":  1792348646,
                          "enabled":  true,
-                         "url":  "https://github.com/stimechik/hypper-updates/releases/download/public-android-1791968759/Hypper-android-1791968759.apk",
-                         "sha256":  "c74ed9f5137e7bdd48f398ce8c1cf9219679aef9ee6c905f3ce107d8b7f67d2c",
-                         "bytes":  290132868
+                         "url":  "https://github.com/stimechik/hypper-updates/releases/download/public-android-1792348646/Hypper-android-1792348646.apk",
+                         "sha256":  "dc4e3c53d98c1982d04b2372c4597c4df344c11545c70526519a7dd85271b413",
+                         "bytes":  316380376
                      }
                  ]
 }
