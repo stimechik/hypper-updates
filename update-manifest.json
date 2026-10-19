@@ -5,23 +5,23 @@
                          "channel":  "public",
                          "platform":  "windows",
                          "version":  "1.4.0",
-                         "latestBuild":  9000000000,
-                         "minimumBuild":  9000000000,
+                         "latestBuild":  1792439148,
+                         "minimumBuild":  1792439148,
                          "enabled":  true,
-                         "url":  "https://github.com/stimechik/hypper-updates/releases/download/public-windows-1792415348/Hypper-windows-1792415348.zip",
-                         "sha256":  "0bf133b1c90340bb5bdde213aeb157da045dbb044ea70123f7f2f62afc1e6c6c",
-                         "bytes":  359907071
+                         "url":  "https://github.com/stimechik/hypper-updates/releases/download/public-windows-1792439148/Hypper-windows-1792439148.zip",
+                         "sha256":  "ee90075a2638bf7ef16597cd4bc2f7ebfe35968077df935f17bc1030dfccf6fc",
+                         "bytes":  359906415
                      },
                      {
                          "channel":  "public",
                          "platform":  "android",
                          "version":  "1.4.0",
-                         "latestBuild":  9000000000,
-                         "minimumBuild":  9000000000,
+                         "latestBuild":  1792438274,
+                         "minimumBuild":  1792438274,
                          "enabled":  true,
-                         "url":  "https://github.com/stimechik/hypper-updates/releases/download/public-android-1792348646/Hypper-android-1792348646.apk",
-                         "sha256":  "dc4e3c53d98c1982d04b2372c4597c4df344c11545c70526519a7dd85271b413",
-                         "bytes":  316380376
+                         "url":  "https://github.com/stimechik/hypper-updates/releases/download/public-android-1792438274/Hypper-android-1792438274.apk",
+                         "sha256":  "8937dad60db4a8976aa4077689587b18ad6975b30edba22a31021a417c7412ac",
+                         "bytes":  316379594
                      }
                  ]
 }
