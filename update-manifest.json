@@ -16,12 +16,12 @@
       "channel": "public",
       "platform": "android",
       "version": "1.5.1",
-      "latestBuild": 1794408660,
-      "minimumBuild": 1794408660,
+      "latestBuild": 1794413736,
+      "minimumBuild": 1794413736,
       "enabled": true,
-      "url": "https://github.com/stimechik/hypper-updates/releases/download/public-android-1794408660/Hypper-android-1794408660.apk",
-      "sha256": "318b650d9d93edbb1cfd03a9c0b78af6adeb8600d937bd8e84573a5bf39edac2",
-      "bytes": 331228002
+      "url": "https://github.com/stimechik/hypper-updates/releases/download/public-android-1794413736/Hypper-android-1794413736.apk",
+      "sha256": "6776bbda69abc3418fcc2c8f3d21da3a0abd28f66d6116b5a1c68edbf3e3a5c2",
+      "bytes": 331236757
     }
   ]
 }
