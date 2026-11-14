@@ -3,17 +3,6 @@
   "releases": [
     {
       "channel": "public",
-      "platform": "windows",
-      "version": "1.5.2",
-      "latestBuild": 1794618798,
-      "minimumBuild": 1794618798,
-      "enabled": true,
-      "url": "https://github.com/stimechik/hypper-updates/releases/download/public-windows-1794618798/Hypper-windows-1794618798.zip",
-      "sha256": "5678e17b15252d4abca155cf1472721330b2ff669d269a78447fd93e82a1b77a",
-      "bytes": 369552816
-    },
-    {
-      "channel": "public",
       "platform": "android",
       "version": "1.5.2",
       "latestBuild": 1794623565,
@@ -22,6 +11,17 @@
       "url": "https://github.com/stimechik/hypper-updates/releases/download/public-android-1794623565/Hypper-android-1794623565.apk",
       "sha256": "8d6dbf47647e3c8d0c21a89e4623dc5ec503f9afe1a3052cca8ddfa7042b06d7",
       "bytes": 329712679
+    },
+    {
+      "channel": "public",
+      "platform": "windows",
+      "version": "1.5.2",
+      "latestBuild": 1794624645,
+      "minimumBuild": 1794624645,
+      "enabled": true,
+      "url": "https://github.com/stimechik/hypper-updates/releases/download/public-windows-1794624645/Hypper-windows-1794624645.zip",
+      "sha256": "2f9bf243094ef3914a1b38239d1eb54fd43d8cc663f7ba7043a0fc5edbd84fb4",
+      "bytes": 368297882
     }
   ]
 }
